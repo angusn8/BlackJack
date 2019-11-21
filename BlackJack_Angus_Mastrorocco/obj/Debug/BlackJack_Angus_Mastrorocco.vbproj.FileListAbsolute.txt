@@ -1,0 +1,15 @@
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\bin\Debug\BlackJack_Angus_Mastrorocco.exe.config
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\bin\Debug\BlackJack_Angus_Mastrorocco.exe
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\bin\Debug\BlackJack_Angus_Mastrorocco.pdb
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\bin\Debug\BlackJack_Angus_Mastrorocco.xml
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.vbprojResolveAssemblyReference.cache
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.Form1.resources
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.Resources.resources
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.vbproj.GenerateResource.Cache
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.exe
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.xml
+Y:\HS\Mylant\Computer Math\Student Work\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.pdb
+E:\Visual Basic\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\bin\Debug\BlackJack_Angus_Mastrorocco.exe.config
+E:\Visual Basic\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.exe
+E:\Visual Basic\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.xml
+E:\Visual Basic\BlackJack_Angus_Mastrorocco\BlackJack_Angus_Mastrorocco\obj\Debug\BlackJack_Angus_Mastrorocco.pdb

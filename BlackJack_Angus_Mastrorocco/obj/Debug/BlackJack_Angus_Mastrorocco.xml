@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BlackJack_Angus_Mastrorocco
+</name>
+</assembly>
+<members>
+<member name="T:BlackJack_Angus_Mastrorocco.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.BlackJack_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.Club">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.Diamond">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.Heart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BlackJack_Angus_Mastrorocco.My.Resources.Resources.Spade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
